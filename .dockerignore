@@ -1,0 +1,14 @@
+target/
+bin/
+hub-proxy
+.git/
+.gitignore
+.github/
+.dockerignore
+Dockerfile
+Makefile
+README.md
+tests/
+scripts/
+*.log
+.DS_Store
